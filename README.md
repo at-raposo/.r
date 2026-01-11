@@ -19,6 +19,7 @@ organização e entendimento dos conceitos** ao longo do tempo.
 
 ## 📂 Estrutura do repositório
 
+'''
 aprendendo-r/
 │
 ├── fundamentos/
@@ -31,7 +32,7 @@ aprendendo-r/
 │
 ├── notas.md
 └── README.md
-
+'''
 
 
 Cada pasta representa um **tema estudado**, com scripts comentados e exemplos práticos.
